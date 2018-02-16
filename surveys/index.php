@@ -43,18 +43,6 @@ $config->metaKeywords = 'Surveys,PHP,Fun,Questions,Big Data,Regular Expressions,
 //adds font awesome icons for arrows on pager
 $config->loadhead .= '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">';
 
-/*
-$config->metaDescription = 'Web Database ITC250 class website.'; #Fills <meta> tags.
-$config->metaKeywords = 'SCCC,Seattle Central,ITC281,database,mysql,php';
-$config->metaRobots = 'no index, no follow';
-$config->loadhead = ''; #load page specific JS
-$config->banner = ''; #goes inside header
-$config->copyright = ''; #goes inside footer
-$config->sidebar1 = ''; #goes inside left side of page
-$config->sidebar2 = ''; #goes inside right side of page
-$config->nav1["page.php"] = "New Page!"; #add a new page to end of nav1 (viewable this page only)!!
-$config->nav1 = array("page.php"=>"New Page!") + $config->nav1; #add a new page to beginning of nav1 (viewable this page only)!!
-*/
 
 # END CONFIG AREA ---------------------------------------------------------- 
 
